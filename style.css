@@ -57,6 +57,7 @@ img{
 }
 
 button{
+    display: none;
     max-height: 35px;
     max-width: 125px;
     min-height: 10px;
